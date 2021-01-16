@@ -1,4 +1,5 @@
 # multichannel-slotted-ALOHA
+read here for the better writing: https://hackmd.io/@bariqsufif/multichannelslotted
 ## Background
 ::: spoiler Click to view the background knowledge of **Single-Channel Slotted ALOHA**, you can skip this if you already understand
 ---
